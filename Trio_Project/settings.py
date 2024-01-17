@@ -71,7 +71,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'DjangoApp.wsgi.application'
+WSGI_APPLICATION = 'Trio_Project.wsgi.application'
 
 
 # Database
