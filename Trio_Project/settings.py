@@ -71,7 +71,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'Trio_Project.wsgi.application'
+WSGI_APPLICATION = 'wsgi.application'
 
 
 # Database
